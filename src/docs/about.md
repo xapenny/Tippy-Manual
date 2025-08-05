@@ -62,3 +62,5 @@ const members = [
 - [Diving-Fish / Chiyuki-Bot](https://github.com/Diving-Fish/Chiyuki-Bot)
 - [zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot)
 - [CMHopeSunshine / LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon)
+- [落雪咖啡屋 maimai DX 查分器](https://maimai.lxns.net/)
+- [Diving-Fish 舞萌 DX | 中二节奏查分器](https://www.diving-fish.com/maimaidx/prober/)

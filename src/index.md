@@ -22,6 +22,8 @@ features:
     details: 支持舞萌DX、中二节奏、太鼓之达人、BanG Dream!、Project Sekai等多款音游的查询服务
   - title: 猜单词
     details: 支持Wordle小游戏、支持英语/日语不同难度的猜单词小游戏
+  - title: 底分趋势
+    details: 支持记录您的舞萌DX和中二节奏底分变化，回顾您的进步旅程
 ---
 
 <style module>
