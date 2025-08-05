@@ -1,3 +1,7 @@
+---
+title: 绑定结果
+---
+
 <script setup>
 const queryParams = new URLSearchParams(window.location.search);
 const isSuccess = queryParams.get('success')
