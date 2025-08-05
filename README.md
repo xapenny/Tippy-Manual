@@ -12,7 +12,7 @@ _🧸 ねぇレイ、今日はどんなほんをさがしにきたの？ 🧸_
 
 [![VitePress](https://img.shields.io/badge/VitePress-1.6.3-646cff?style=flat-square&logo=vite)](https://vitepress.dev/)
 
-[📖 Read Documentation](https://tippy.morfonica.cn/) • [🚀 Development](#development)
+[📖 Read Documentation](https://tippy.cyanine.top/) • [🚀 Development](#development)
 
 </div>
 
