@@ -20,7 +20,7 @@ const members = [
     ]
   },
   {
-    avatar: '/akula.jpg',
+    avatar: '/icons/akula.jpg',
     name: 'AkulaKirov',
     title: 'Designer',
     links: [
@@ -29,7 +29,7 @@ const members = [
     ]
   },
   {
-    avatar: '/ata.jpg',
+    avatar: '/icons/ata.jpg',
     name: '阿塔_Official',
     title: 'Content Creater',
     links: [
@@ -45,7 +45,7 @@ const members = [
 - 提比 Bot 的私聊背景图由 [阿塔\_Official](https://space.bilibili.com/40706073?spm_id_from=..0.0) 授权使用
 
 <p align="center">
-  <a href=""><img src="/FG_003121.png"></a>
+  <a href=""><img src="/images/FG_003121.jpg"></a>
 </p>
 
 ## 开发团队

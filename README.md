@@ -1,7 +1,7 @@
 # Tippy Bot Manual
 
 <p align="center">
-  <img src="src/public/CGM_TP010311_010a.png" alt="Tippy Bot" width="200">
+  <img src="/images/CGM_TP010311_010a.png" alt="Tippy Bot" width="200">
 </p>
 
 <div align="center">

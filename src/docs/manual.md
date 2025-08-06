@@ -3,7 +3,7 @@ title: 使用说明
 ---
 
 <p align="center">
-  <a href=""><img src="/CGS_TP010411_010b.png"></a>
+  <a href=""><img src="/images/CGS_TP010411_010b.png"></a>
 </p>
 
 <div align="center">

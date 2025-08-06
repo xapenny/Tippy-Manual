@@ -7,7 +7,7 @@ hero:
   text: "提比不想睡觉"
   tagline: 图书馆中的蓝色少女，提供小游戏及音游查询服务
   image:
-    src: /CGM_TP010311_010a.png
+    src: /images/CGM_TP010311_010a.png
     alt: Tippy
   actions:
     - theme: brand
