@@ -21,7 +21,8 @@ export default defineConfig({
       {
         text: 'Tippy Bot 文档',
         items: [
-          { text: '使用说明', link: '/docs/manual' },
+          { text: '使用说明(官方)', link: '/docs/manual' },
+          { text: '使用说明(Onebot)', link: '/docs/manual-onebot' },
           { text: '更新日志', link: '/docs/changelog' },
           { text: '关于', link: '/docs/about' }
         ]
