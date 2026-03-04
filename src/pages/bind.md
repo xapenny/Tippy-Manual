@@ -1,7 +1,7 @@
 ---
 title: 绑定结果
 ---
-
+<ClientOnly>
 <script setup>
 const queryParams = new URLSearchParams(window.location.search);
 const isSuccess = queryParams.get('success')
@@ -30,3 +30,4 @@ const msg = queryParams.get('msg')
 {{ msg }}
 
 </div>
+</ClientOnly>
