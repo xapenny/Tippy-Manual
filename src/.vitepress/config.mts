@@ -34,8 +34,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2021-present xapenny'
+      message: `<a href="https://beian.miit.gov.cn/" target="_blank">${process.env.VITE_BEIAN_STRING}</a>`,
+      copyright: 'Copyright © 2021-2026 xapenny'
     },
 
     lastUpdated: {
