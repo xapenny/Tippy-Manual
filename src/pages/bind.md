@@ -3,9 +3,16 @@ title: 绑定结果
 ---
 
 <script setup>
-const queryParams = new URLSearchParams(window.location.search);
-const isSuccess = queryParams.get('success')
-const msg = queryParams.get('msg')
+import { ref, onMounted } from 'vue'
+
+const isSuccess = ref(null)
+const msg = ref('')
+
+onMounted(() => {
+  const queryParams = new URLSearchParams(window.location.search);
+  isSuccess.value = queryParams.get('success')
+  msg.value = queryParams.get('msg')
+})
 </script>
 
 <div align="center">
