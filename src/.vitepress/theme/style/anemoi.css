@@ -1,0 +1,13 @@
+/* anemoi.css */
+
+:root {
+    --vp-button-sponsor-border: #F6CEEC;
+    --vp-button-sponsor-text: #ffffff;
+    --vp-button-sponsor-bg: #ff6598;
+
+    --vp-button-sponsor-hover-border: #F6CEEC;
+    --vp-button-sponsor-hover-text: #fff;
+    --vp-button-sponsor-hover-bg: #D939CD;
+
+    --vp-button-sponsor-active-border: #F6CEEC;
+}

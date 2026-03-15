@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 更新日志
       link: /docs/changelog
+    - theme: sponsor
+      text: 了解anemoi
+      link: https://key.visualarts.gr.jp/anemoi/
 
 features:
   - title: 音游查询
