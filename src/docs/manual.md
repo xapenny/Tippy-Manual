@@ -18,6 +18,11 @@ _🧸 ねぇ、今日はどんなほんをさがしにきたの？ 🧸_
 
 🧸 Tippy Bot 是一个由 Shiona 开发的，具有查歌、查分等各种音游相关功能的机器人，由 Shiona 开发维护。官方交流群 `664630338`
 
+> [!WARNING] 公告
+>
+> - 提比现在支持设置为免@使用啦！[点击这里](/docs/at-free.html)来查看如何设置
+> - 如果您为提比开通了免@权限，则 [旧版提比](/docs/manual-onebot.html) 中的指令也能生效
+
 > [!IMPORTANT] 重要
 >
 > - 以下所有指令均需要 **@提比** 后才能使用
@@ -119,6 +124,15 @@ _🧸 ねぇ、今日はどんなほんをさがしにきたの？ 🧸_
 >
 > - 提交答案需要 `@提比不想睡觉` 并输入"#"后拼写你的答案
 > - 如果不输入分类即可查看支持的分类列表
+
+### Hardle排行 <Badge type="warning" text="需免@权限" />
+
+- 说明：查看/参与[Hardle](https://hardle.org)排行榜
+- 参与方法：群内发送[Hardle](https://hardle.org)分享的成绩即可参与
+- 指令 `#hardle` `<all>`
+- 用法示例：`#hardle`
+- 用法示例：`#hardle all`
+
 
 ## 舞萌 DX 相关
 
@@ -271,7 +285,7 @@ _🧸 ねぇ、今日はどんなほんをさがしにきたの？ 🧸_
 - 用法示例：`@提比不想睡觉` `/cscore ptt`
 - 用法示例：`@提比不想睡觉` `/cscore z317`
 
-### 中二成绩列表 <Badge type="warning" text="测试版" />
+### 中二成绩列表
 
 - 说明：根据条件筛选 _中二_ 谱面成绩
 - 可用场景：<Badge type="tip" text="QQ群" /> <Badge type="tip" text="QQ私聊" /> <Badge type="tip" text="QQ频道" /> <Badge type="tip" text="频道私信" />
@@ -283,7 +297,7 @@ _🧸 ねぇ、今日はどんなほんをさがしにきたの？ 🧸_
 不带任何参数地输入 `/cscorelist` 可以查看所有支持的条件
 :::
 
-### 中二进度表 <Badge type="warning" text="测试版" />
+### 中二进度表
 
 - 说明：查看 _中二_ 谱面完成进度
 - 可用场景：<Badge type="tip" text="QQ群" /> <Badge type="tip" text="QQ私聊" /> <Badge type="tip" text="QQ频道" /> <Badge type="tip" text="频道私信" />
@@ -363,3 +377,67 @@ _🧸 ねぇ、今日はどんなほんをさがしにきたの？ 🧸_
 - 说明：随机为您推荐 _Project Sekai_ 乐曲
 - 可用场景：<Badge type="tip" text="QQ群" /> <Badge type="tip" text="QQ私聊" /> <Badge type="tip" text="QQ频道" /> <Badge type="tip" text="频道私信" />
 - 指令：`@提比不想睡觉` `/烤什么`
+
+## 机厅相关查询
+
+### 机厅查询 <Badge type="warning" text="需免@权限" />
+
+- 说明：根据关键词检索拥有舞萌的机厅
+- 可用场景：<Badge type="tip" text="QQ群" />
+- 指令：`机厅查询 [关键词]`
+- 用法示例：`机厅查询 曲江大悦城`
+
+### 机厅信息 <Badge type="warning" text="需免@权限" />
+
+- 说明：根据 ID 查看机厅详细信息
+- 可用场景：<Badge type="tip" text="QQ群" />
+- 指令：`机厅信息 [机厅ID]`
+- 用法示例：`机厅信息 2221`
+
+### 设置机厅别名 <Badge type="warning" text="需免@权限" />
+
+- 说明：为指定机厅设置别名
+- 可用场景：<Badge type="tip" text="QQ群" />
+- 指令：`设置机厅别名 [机厅ID] [别名]`
+- 用法示例：`设置机厅别名 2221 dyc`
+
+### 导入机厅别名 <Badge type="warning" text="需免@权限" />
+
+- 说明：导入当前地区的其他玩家为机厅设置的别名
+- 可用场景：<Badge type="tip" text="QQ群" />
+- 指令：`导入机厅别名`
+
+### 删除机厅别名 <Badge type="warning" text="需免@权限" />
+
+- 说明：删除指定机厅别名
+- 可用场景：<Badge type="tip" text="QQ群" />
+- 指令：`删除机厅别名 [别名]`
+- 用法示例：`删除机厅别名 dyc`
+
+### 机厅人数上报 <Badge type="warning" text="需免@权限" />
+
+- 说明：上报机厅的人数
+- 可用场景：<Badge type="tip" text="QQ群" />
+- 指令：`[机厅别名] (+/-)[人数]`
+- 用法示例：`立丰10`
+- 用法示例：`dyc+1`
+
+### 机厅人数查询 <Badge type="warning" text="需免@权限" />
+
+- 说明：查询机厅的人数
+- 指令：`[机厅别名]几`
+- 用法示例：`立丰几`
+- 用法示例：`xdg几`
+
+## 其他指令
+
+### Vtuber 推荐
+
+- 说明：提比会为你推荐一位 Vtuber
+- 指令：`看什么v`
+
+### 世界时间
+
+- 说明：看看世界各地现在几点
+- 指令：`#查询[地区]时间`
+- 用法示例：`#查询加拿大时间`
