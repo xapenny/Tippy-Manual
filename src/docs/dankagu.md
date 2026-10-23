@@ -44,9 +44,9 @@ _⛩️ Reborn of Dankagu Mobile ⛩️_
 
 5. 勾选「**上記に同意します**」
 
-![Step5](/images/dankagu/signin-3.jpg)
+6. 若要创建新账号，请看 **步骤7** ，若要引继旧帐号，请看 **步骤8**
 
-6. 若要创建新账号，请看 **步骤** ，若要引继旧帐号，请看 **步骤8**
+![Step5](/images/dankagu/signin-3.jpg)
 
 7. 点击「**新規データでプレイ**」按钮创建新账号。
 
