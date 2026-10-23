@@ -27,6 +27,12 @@ export default defineConfig({
           { text: '关于', link: '/docs/about' }
         ]
       },
+      {
+        text: 'Dankagu Reborn 文档',
+        items: [
+          { text: '使用说明', link: '/docs/dankagu' },
+        ]
+      },
     ],
 
     socialLinks: [
