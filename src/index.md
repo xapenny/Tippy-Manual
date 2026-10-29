@@ -18,7 +18,7 @@ hero:
       link: /docs/changelog
     - theme: sponsor
       text: 了解anemoi
-      link: https://key.visualarts.gr.jp/anemoi/
+      link: https://key.visualarts.co.jp/anemoi/
 
 features:
   - title: 音游查询
